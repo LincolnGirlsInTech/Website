@@ -4,7 +4,7 @@
   "description": "Website for 501(c)(3), Girls Code Lincoln",
   "dependencies": {},
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "nodemon": "^2.0.20"
   },
   "scripts": {
